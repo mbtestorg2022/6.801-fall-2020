@@ -12,7 +12,7 @@ Lectures: 2 sessions / wk; 1.5 hrs / session
 Prerequisites
 -------------
 
-_[6.003 Signal Processing](/courses/6-003-signals-and-systems-fall-2011/)_ or permission of the instructor. 
+_[6.003 Signal Processing](/courses/6-003-signals-and-systems-fall-2011)_ or permission of the instructor. 
 
 Course Description
 ------------------
